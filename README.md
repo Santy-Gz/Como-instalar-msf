@@ -1,10 +1,9 @@
 # Instalacion
 
 primero debemos actualizar paquetes con el comando 
-``pkg update && pkg upgrade ``
-
+''pkg update && pkg upgrade ''
 luego instalamos curl con el comando
-``pkg install curl``
+''pkg install curl''
 
 ahora para instalar metasploit solo debes poner la siguiente linea
 ``curl -LO https://raw.githubusercontent.com/Hax4us/Metasploit_termux/master/metasploit.sh``
